@@ -1,4 +1,4 @@
-This is a coding assignment on web scraping that I completed for class. I cannot share the code publicly but I can share it upon request. 
+## This is the description of a coding assignment on web scraping that I completed for class. I cannot share the code publicly but I can share it upon request. 
 
 # Scraping Chicago Parks
 
